@@ -25,7 +25,7 @@ This Power BI dashboard analyzes Blinkit sales performance, customer ratings, it
 
 ## Dashboard Preview
 
-![Dashboard](Blinkit_Dashboard.png)
+![Dashboard]("C:\Users\kmrip\OneDrive\Desktop\Blinkit__Dashboard.pbix")
 
 ## Author
 Preety
